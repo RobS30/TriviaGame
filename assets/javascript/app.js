@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var timeRemaining = 5;
+    var timeRemaining = 30;
 
     var triviaQuestions = [{
         question: "During the first dundies episode, which employee recieved the 'Don't go in there after me' award?",
